@@ -22,6 +22,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## A
 
 - [Aaban Malik](https://muhammadaamirmalik.com/)
+- [Afjal Mia](https://md-afjal-ansari.onrender.com/)[Full-Stack developer]
 - [Aabar Khan](https://ceo.pronexus.in/)
 - [Aabid Ahmed](https://sawad.framer.website/)
 - [Aabraham James](https://seera.framer.website/)
